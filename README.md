@@ -12,9 +12,6 @@ Assignments:
 Data:
 
 - Climate data
-
 - GDP Data
-
 - Population Data
-
 - Pollutant by industry
